@@ -29,6 +29,10 @@
         transform: none;
     }
 }
+
+.main-screen{
+    height: 120vh;
+}
 .main-chat{
     display: flex;
     padding-top: 150px;
@@ -185,3 +189,4 @@
     transform: translateY(80px);
 
 }
+
